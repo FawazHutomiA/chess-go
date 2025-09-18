@@ -21,7 +21,7 @@ Supports basic chess rules, input parsing, console board display, and unit tests
 Clone repository lalu masuk folder project:
 
 ```bash
-git clone https://github.com/yourusername/chess-go.git
+git clone https://github.com/FawazHutomiA/chess-go.git
 cd chess-go
 ```
 
@@ -118,7 +118,7 @@ Game ends when **a King is captured**.
 
 ---
 
-🔹 Author: \[Your Name]
+🔹 Author: \Fawaz Hutomi Abdurahman
 🔹 License: MIT
 
 ---
