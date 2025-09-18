@@ -1,7 +1,3 @@
-Siap 🚀 berikut draft **README.md** untuk project `chess-go`:
-
----
-
 # 🏰 Console Chess (Go)
 
 A simple **console-based chess game** written in **Golang**.
