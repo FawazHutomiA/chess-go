@@ -118,7 +118,7 @@ Game ends when **a King is captured**.
 
 ---
 
-🔹 Author: \Fawaz Hutomi Abdurahman
+🔹 Author: Fawaz Hutomi Abdurahman
 🔹 License: MIT
 
 ---
